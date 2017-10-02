@@ -33,7 +33,7 @@
       "additionalSetColors": []
     },
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
